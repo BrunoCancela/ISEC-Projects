@@ -1,0 +1,21 @@
+.button {
+    -fx-font-family: Verdana;
+    -fx-background-color: black;
+    -fx-text-fill: yellow;
+    -fx-font-size: 16px;
+    -fx-border-color: yellow;
+    -fx-font-weight: bold;
+    -fx-border-width: 2px;
+    -fx-border-radius: 10px;
+}
+
+.button:pressed {
+    -fx-text-fill: red;
+    -fx-border-color: red;
+}
+
+.footer-label {
+    -fx-font-family: Verdana;
+    -fx-font-size: 14px;
+    -fx-text-fill: grey;
+}

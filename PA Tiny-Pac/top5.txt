@@ -1,0 +1,5 @@
+Bruno:1000
+RicFazeres:200
+Macaco:10
+Bruno:7
+Bruno:7
